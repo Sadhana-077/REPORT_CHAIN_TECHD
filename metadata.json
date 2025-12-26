@@ -1,0 +1,9 @@
+{
+  "name": "ReportChain DApp",
+  "description": "A decentralized, anonymous civic reporting platform using Blockchain and AI for verification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
